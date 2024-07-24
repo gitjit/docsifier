@@ -11,3 +11,9 @@ To create a new project using this template:
 Refer to the [Docsify Setup Guide](docs/appendix/docsify-setup.md) for detailed setup instructions.
 
 Just go to roots folder and replace the `replace-me` with your github repository link and other titles with your own.
+
+To serve documentation locally, run the following command:
+
+```bash
+  $ docsify serve docs
+```
